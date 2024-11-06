@@ -1,5 +1,10 @@
 # Portfólio Cyberpunk (Projeto Abandonado)
 
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+    <img src="preview.png" alt="Preview do Projeto" style="max-width: 100%; height: auto;" />
+</div>
+
+
 ## Contexto
 
 Eu queria dar uma cara nova ao meu portfólio, explorar uma estética **cyberpunk**, que é uma cultura que gosto bastante. Acabei achando por acaso um projeto bem simples, com referências ao jogo *Cyberpunk 2077* — que também curto. Decidi usar essa base e ver até onde conseguiria personalizar do meu jeito.
